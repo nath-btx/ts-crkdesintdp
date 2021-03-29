@@ -1,0 +1,10 @@
+We have a class Jukebox, which contains one sub-class : CD
+The subclass CD contain method who contains the tracks of the CD
+
+The class Jukebox has 5 classes :
+
+- Read() => Read the CD
+- ChooseMusic() => The user can choose his music 
+- RandomMusic() => To select a random music 
+- Play() => Play the music 
+- Pause() => Pause the music 
