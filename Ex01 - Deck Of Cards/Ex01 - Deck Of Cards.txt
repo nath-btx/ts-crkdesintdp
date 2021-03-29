@@ -1,0 +1,7 @@
+We have a class Dealer, with a Subclass Card and Player
+The Dealer will start by drawing two cards for himself and the Player
+The player can either Stay(), or Draw() a new card using the public method from the Dealer
+Everytime the Player or Dealer uses Draw(), the cards sum is counted using Count() to check if he goes above 21
+If Player or Dealer does go above 21, the method Lose() is called and player loses the game.
+If player uses Stay() and doesn't bust, its back to the Dealer
+The Dealver will Draw() until he goes above 17, once he does we count the Cards of the Player and Dealer, we decide a winner
