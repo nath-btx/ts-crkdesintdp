@@ -1,0 +1,13 @@
+We have a class Parking, which contains two sub-classes : Floor
+The subclass Floor contains a subclass Spot
+Each spot has a name which is a String, and a Boolean isFree that says if it is free or available
+
+The subclass Floor has :
+- Integer to know which floor it is
+- CountFreeSpots method that counts how many Spot subclasses have the isFree boolean on True
+- An integer availableSpots which is the result of CountFreeSpots
+
+The Parking class has :
+ - the Method totalFreeSpots() that summs up the availableSpots from each subclass
+
+ - an AvailableSpots which is the result of totalFreeSpots()
