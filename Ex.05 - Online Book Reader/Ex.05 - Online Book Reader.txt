@@ -1,5 +1,0 @@
-interface Library displays all the books available
-User choses a book with chooseBook()
-Once he's chosen a book, he is displayed all the information about it
-he can then choose to read the book with openBook()
-openBook() will display the content of the book
