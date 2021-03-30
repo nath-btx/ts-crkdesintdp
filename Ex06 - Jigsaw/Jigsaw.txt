@@ -1,0 +1,2 @@
+The Puzzle class has one variable, it is the number that represents the NxN, it is possible to increment this variable.
+The Pieces Class has 2 method, assemble() to put the pieces of the puzzle together and select() to select the pieces of the puzzle to put together
