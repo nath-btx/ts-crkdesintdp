@@ -1,0 +1,3 @@
+The ChatServer class has 2 methods, selectChat() and deleteChat(), that respectively open the click chat or delete it
+After opening a chat, you are either in a PrivateChat or GroupChat, that both have their respectives methods ot handle the chat
+Both chats have access to public methods inputField() that opens up the keyboard to type your message and sendMessage()
