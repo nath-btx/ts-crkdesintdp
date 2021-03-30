@@ -5,5 +5,5 @@ User uses placePiece to place a piece on the board
 placePiece takes the tile it will be placed on as a parameter
 
 Each piece has either the color white or black
-After each piece placed, the game checks if pieces are surrounded
+After a piece is played, the game checks if pieces are surrounded using checkSurrounded
 If a piece is surrounded, the color changes with switchColor
